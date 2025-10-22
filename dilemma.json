@@ -1,0 +1,11 @@
+{
+  "people": 6,
+  "case_1": {
+    "swerve": false,
+    "reason": "In classical utilitarianism, the ethical choice is to minimize harm, which means preserving the greater number of lives. Hitting 2 people is preferable to swerving and hitting 1 person, as 2 > 1. The vehicle should not swerve."
+  },
+  "case_2": {
+    "swerve": false,
+    "reason": "Introducing the moral character (criminals) and age (child) of the individuals complicates the utilitarian calculus. However, most ethical frameworks, particularly those focusing on the sanctity of life, would argue that a vehicle should not be programmed to make judgments on a person's worth or past actions. Furthermore, directly choosing to kill a child, even to save criminals, is a highly problematic outcome. The primary directive should remain minimizing the number of casualties, thus not swerving to hit 1 child when 2 criminals would be hit otherwise. This avoids 'playing God' and maintains a consistent, pre-defined ethical stance."
+  }
+}
